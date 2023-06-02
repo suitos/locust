@@ -1,4 +1,4 @@
-# DVS 부하 및 성능 테스트 용 locust script
+# 부하 및 성능 테스트 용 locust script
 
 ##env
 python 3.9 사용
